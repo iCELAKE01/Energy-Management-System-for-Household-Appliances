@@ -1,0 +1,9 @@
+Running Instructions
+
+1. TensorFlow Libraries
+2. Cuda Toolkit >=12.3
+3. cuDNN >=9.3
+4. cuBLAS library
+5. Nvidia GPU >2GB VRAM
+6. Reduce batch size if VRAM less than 8GB to prevent memory overflow
+7. shift+enter
