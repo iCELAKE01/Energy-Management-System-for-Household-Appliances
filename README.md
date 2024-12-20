@@ -130,13 +130,6 @@ Before getting started with Energy-Management-System-for-Household-Appliances, e
 - **Package Manager:** Pip
 
 ---
-##  Project Roadmap
-
-- [X] **`Task 1`**: <strike>Implement feature one.</strike>
-- [ ] **`Task 2`**: Implement feature two.
-- [ ] **`Task 3`**: Implement feature three.
-
----
 
 ##  Contributing
 
